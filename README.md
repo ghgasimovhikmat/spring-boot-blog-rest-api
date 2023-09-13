@@ -1,6 +1,6 @@
 # spring-boot-blog-rest-api
 
-– Spring Security
+– Spring Security 
 – JWT
 – Spring Data JPA (Hibernate)
 – MySQL Database
