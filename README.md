@@ -1,4 +1,4 @@
-# spring-boot-blog-rest-api
+# Spring-Boot (Blog Api)
 
 – Spring Security 
 – JWT
